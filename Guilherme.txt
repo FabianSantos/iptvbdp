@@ -1,0 +1,96 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 FHD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 2 FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71105
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 2 HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71112
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="PREMIERE 2 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 2 HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71371
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 2 SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71241
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 3 FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71106
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 FHD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 3 FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71113
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="PREMIERE 3 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 3 HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71372
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 3 SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71242
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 4 FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71107
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 FHD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 4 FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71114
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",Premiere 4 HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71373
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 4 SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71243
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 5
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71108
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 FHD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 5 FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71115
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="PREMIERE 5 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 5 HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71374
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 5 SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71244
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 6 HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71109
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="PREMIERE 6 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 6 HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71375
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 6 SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71245
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 FHD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 7 FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71110
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 7 HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71246
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 7 HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71376
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 8 HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 8 HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71247
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 9 SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE 9 SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71248
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES FHD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE CLUBES FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71104
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES HD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE CLUBES HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71377
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE CLUBES SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71111
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES SD" tvg-logo="https://1.bp.blogspot.com/-Q69ZX8drGfQ/YBxY5AmyO9I/AAAAAAAAJyw/Orw3y2kqi8UhcGjT2HIk4mbBUPpM89N7QCLcBGAsYHQ/s0/PREMIERE.png" group-title="PREMIERES",PREMIERE CLUBES SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71249
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://1.bp.blogspot.com/-z9bAjhuO5Ao/YBxZBpPX06I/AAAAAAAAJ1A/5Y9lFq2A2gUA9a3o3VgJLfed7IUHRaaogCLcBGAsYHQ/s0/telecine%2Baction.png" group-title="TELECINE",TELECINE ACTION FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71066
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://1.bp.blogspot.com/-z9bAjhuO5Ao/YBxZBpPX06I/AAAAAAAAJ1A/5Y9lFq2A2gUA9a3o3VgJLfed7IUHRaaogCLcBGAsYHQ/s0/telecine%2Baction.png" group-title="TELECINE",TELECINE ACTION HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71386
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://1.bp.blogspot.com/-z9bAjhuO5Ao/YBxZBpPX06I/AAAAAAAAJ1A/5Y9lFq2A2gUA9a3o3VgJLfed7IUHRaaogCLcBGAsYHQ/s0/telecine%2Baction.png" group-title="TELECINE",TELECINE ACTION SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71270
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="TELECINE",TELECINE CULT FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71072
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="TELECINE",TELECINE CULT HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71387
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://1.bp.blogspot.com/-D2s_8Dll7bw/YBxZBwYWhuI/AAAAAAAAJ1E/WmYvLjhIokEoGNm5sAxr4__ob-OGBVlCQCLcBGAsYHQ/s0/telecine%2Bcult.png" group-title="TELECINE",TELECINE CULT SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71271
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://1.bp.blogspot.com/-tQTftzwmtUE/YBxZCBroy3I/AAAAAAAAJ1I/a4AkM2Xd4xo9QzH-SLHr78I1VkNuNZzMACLcBGAsYHQ/s0/telecine%2Bfun.png" group-title="TELECINE",TELECINE FUN FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71073
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://1.bp.blogspot.com/-tQTftzwmtUE/YBxZCBroy3I/AAAAAAAAJ1I/a4AkM2Xd4xo9QzH-SLHr78I1VkNuNZzMACLcBGAsYHQ/s0/telecine%2Bfun.png" group-title="TELECINE",TELECINE FUN HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71388
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://1.bp.blogspot.com/-tQTftzwmtUE/YBxZCBroy3I/AAAAAAAAJ1I/a4AkM2Xd4xo9QzH-SLHr78I1VkNuNZzMACLcBGAsYHQ/s0/telecine%2Bfun.png" group-title="TELECINE",TELECINE FUN SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71272
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="TELECINE",TELECINE PIPOCA FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71068
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="TELECINE",TELECINE PIPOCA HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71389
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://1.bp.blogspot.com/-LUrPenBm3oE/YBxZCN1jmDI/AAAAAAAAJ1M/uUtNvk28VQEbvqwk7JDGF5KNtgGTT-q_gCLcBGAsYHQ/s0/telecine%2Bpipoca.png" group-title="TELECINE",TELECINE PIPOCA SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71273
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://1.bp.blogspot.com/-9y9Czx6d9Ic/YBxZCli1hxI/AAAAAAAAJ1Q/ULgYcQkTwXw-3dZraA6olb43zCogLRT3QCLcBGAsYHQ/s0/telecine%2Bpremio.png" group-title="TELECINE",TELECINE PREMIUM FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71069
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://1.bp.blogspot.com/-9y9Czx6d9Ic/YBxZCli1hxI/AAAAAAAAJ1Q/ULgYcQkTwXw-3dZraA6olb43zCogLRT3QCLcBGAsYHQ/s0/telecine%2Bpremio.png" group-title="TELECINE",TELECINE PREMIUM HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71390
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://1.bp.blogspot.com/-9y9Czx6d9Ic/YBxZCli1hxI/AAAAAAAAJ1Q/ULgYcQkTwXw-3dZraA6olb43zCogLRT3QCLcBGAsYHQ/s0/telecine%2Bpremio.png" group-title="TELECINE",TELECINE PREMIUM SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71274
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png" group-title="TELECINE",TELECINE TOUCH FHD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71076
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png" group-title="TELECINE",TELECINE TOUCH HD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71391
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://1.bp.blogspot.com/-aJwkqBk-Fiw/YBxZC9Yn1OI/AAAAAAAAJ1U/hKEVqV3L5ScoCw2fy4vsRG6zOVEiaQJ-ACLcBGAsYHQ/s0/telecine%2Btouh.png" group-title="TELECINE",TELECINE TOUCH SD
+http://grtsvk.life:8080/a3yudiagj/4ubd1sr9b/71275
+
+
+
